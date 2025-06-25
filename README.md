@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Mangireddygari Reshma 👩‍💻✨</h2>
 
 <p align="center">
- 🔧 Full-Stack Developer | 🎯 Hackathon Winner | 🛠️ ServiceNow Certified | 🌍 Building Tech for Impact
+ 🛠️ ServiceNow Certified | 🎯 Hackathon Winner | 🔧 Full-Stack Developer | 🌍 Building Tech for Impact
 </p>
 
 ---
